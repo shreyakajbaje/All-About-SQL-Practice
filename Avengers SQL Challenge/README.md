@@ -4,9 +4,6 @@ SQL Data Analysis
 ## Overview
   The challenge is to craft SQL queries that provide valuable insights into The Stranger Things Universe
   
-## Contents
-  Challenge Link - https://nitish2162001.github.io/webpage/#questions
-  
 ## Questions
   1. Retrieve the names of the characters?
   2. Find characters with age greater than 18?
